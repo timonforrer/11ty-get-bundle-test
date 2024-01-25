@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 const { EleventyServerlessBundlerPlugin } = require('@11ty/eleventy');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
