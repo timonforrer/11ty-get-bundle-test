@@ -1,0 +1,9 @@
+<p>
+  Hello from <span @text="title"></span>
+</p>
+
+<style>
+  * {
+    color: blue;
+  }
+</style>
