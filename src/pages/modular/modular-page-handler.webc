@@ -1,3 +1,1 @@
-<p>
-  Hello from <span @text="item.meta.title"></span>
-</p>
+<say-hi :title="item.title" webc:nokeep></say-hi>
