@@ -1,8 +1,10 @@
 {
   "page-one": {
-    "title": "Page one"
+    "title": "Page one",
+    "slug": "index.html"
   },
   "page-two": {
-    "title": "Page two"
+    "title": "Page two",
+    "slug": "/page-two/"
   }
 }
