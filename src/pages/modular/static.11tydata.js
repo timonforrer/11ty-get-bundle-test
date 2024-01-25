@@ -6,7 +6,7 @@ module.exports = function() {
     permalink: (data) => generatePermalink(data.item),
     pagination: {
       addAllPagesToCollections: true,
-      data: 'modular',
+      data: 'modularPages',
       size: 1,
       resolve: 'values',
       alias: 'item'
