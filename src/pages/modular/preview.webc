@@ -1,0 +1,1 @@
+<modular-page-handler :item="item"></modular-page-handler>

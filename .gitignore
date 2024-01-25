@@ -1,0 +1,8 @@
+netlify/functions/previewmodular/**
+!netlify/functions/previewmodular/index.js
+
+node_modules
+dist
+.cache
+.DS_Store
+.env

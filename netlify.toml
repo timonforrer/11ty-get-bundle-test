@@ -1,0 +1,14 @@
+[build]
+publish = "dist"
+command = "npm run build"
+
+[functions]
+directory = "./netlify/functions/"
+node_bundler = "zisi"
+
+[[redirects]]
+from = "/preview/modular/"
+to = "/.netlify/functions/previewmodular"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "previewmodular"
